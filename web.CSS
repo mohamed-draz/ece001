@@ -1,0 +1,42 @@
+.web{
+    
+  background-image: url('img.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment:fixed;
+    
+}
+a.button {
+    -webkit-appearance:push-button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: initial;
+}
+h1 {
+  display: inline-block;
+   background-color: #4EF7C3;
+
+}
+h2{
+    display: inline-block;
+   background-color: #FF5733;
+}
+li{
+ font-size: large;
+    
+}
+table{
+   font-size: large;
+}
+ol{
+    list-style-type:disc;
+    font-size: large;
+   }
+  
+
+
+
+
